@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/Fredohm/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/Fredohm/spring-rest-client-examples)
+[![codecov](https://codecov.io/gh/Fredohm/spring-rest-client-examples/branch/master/graph/badge.svg?token=RMK6RWX5CR)](https://codecov.io/gh/Fredohm/spring-rest-client-examples)
 # Spring Rest Client Examples
 
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
